@@ -1,2 +1,2 @@
 # myFirst
-Just started learning Github
+Just started learning Github and interested to proceed further
